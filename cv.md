@@ -15,3 +15,17 @@ well._
 
 _I am a good team player as
 well._
+
+## Skills
+* _Team-oriented_
+* _Multi-tasking_
+* _Analytical-thinking_
+* _Problem-solving_
+
+## Technical skills
+* **JavaScript**
+* **HTML && CSS(SCSS)**
+* **React JS**
+* **Redux**
+* **MySQL**
+* **Git**
