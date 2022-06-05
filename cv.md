@@ -38,3 +38,24 @@ function sumTwoSmallestNumbers(numbers) {
   return numbers[0] + numbers[1]
 }
 ```
+
+## Education
+**Ternopil Academy of
+National Economy**
+
+_Sep 2017 –Dec 2018
+Master of Technology
+(Computer Engineering)_
+
+***
+
+**Ternopil Academy of
+National Economy**
+
+_Sep 2017 –Dec 2018
+Bachelor of Technology
+(Computer Engineering)_
+
+**OktenWeb University (JavaScript Complex Course)**
+
+_Sep 2020 – Sep 2021_
