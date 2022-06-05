@@ -56,6 +56,12 @@ _Sep 2017 –Dec 2018
 Bachelor of Technology
 (Computer Engineering)_
 
-**OktenWeb University (JavaScript Complex Course)**
+***
+
+**[OktenWeb University (JavaScript Complex Course)](https://owu.com.ua/kurs-frontend)**
 
 _Sep 2020 – Sep 2021_
+
+## Languages
+* **Ukrainian** - native speaker
+* **English** - A2
