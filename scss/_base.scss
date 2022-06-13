@@ -52,15 +52,18 @@ table {
   border-spacing: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 //Variables
 
 //Colors
-$color-black: #080808;
-$color-dark-grey: #1A1A1A;
-$color-lime: #3F8E00;
-$color-lime-light: #62BA1B;
-$color-smoke: #D7D7D7;
-$color-white: #FFFFFF;
+$color-grey: #434343;
+$color-grey-light: #46434E;
+$color-orange: #ED7D31;
+$color-dark-orange: #C85F18;
+$color-white: #F2F2F2;
 
 //Font-faces
 $ff-base: 'Montserrat', sans-serif;
