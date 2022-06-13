@@ -1,0 +1,18 @@
+@import "base";
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  font-family: $ff-base;
+  background-color: $color-grey;
+}
+
+.container {
+  max-width: 1230px;
+
+  padding: 0px 15px;
+  margin: 0 auto;
+}
